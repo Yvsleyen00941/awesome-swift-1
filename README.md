@@ -797,6 +797,9 @@ A curated list of awesome Swift frameworks, libraries and software.
 * [saeipi/KSChart](https://github.com/saeipi/KSChart) - k线图/kline/kchart，已经集成MA/EMA/MACD/KDJ/BOLL/RSI/WR/AVG等指标，新增指标及其方便。适用于股票/区块链交易所等种类App。Swift5编写，CPU/内存占用率极低，60FPS稳定运行。示例集成websocket，并接入币安数据（需VPN）。
 
 ### Applications and End User Tools
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Native macOS menu bar productivity HUD with calendar, timer, and notes.
+- [Tape](https://github.com/Yvsleyen00941/Tape) - Native macOS stock ticker living in the unused corner space beside the Dock.
+- [Rime](https://github.com/Yvsleyen00941/Rime) - Distraction-free native markdown editor and reader for macOS.
 
 * [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 * [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
