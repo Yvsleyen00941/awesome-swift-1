@@ -992,6 +992,7 @@ A curated list of awesome Swift frameworks, libraries and software.
 * [JakeLin/SaveTheDot](https://github.com/JakeLin/SaveTheDot) - A game developed using UIViewPropertyAnimator
 
 ### Audio
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Native macOS music player companion beside the Dock.
 
 * [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
 * [fulldecent/FDWaveformView](https://github.com/fulldecent/FDWaveformView) - Reads an audio file and displays the waveform
