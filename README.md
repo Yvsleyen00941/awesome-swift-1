@@ -822,6 +822,8 @@ A curated list of awesome Swift frameworks, libraries and software.
 * [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A quiet, local-first Markdown writing app for Mac, to help you write great sentences.
 * [kickstarter/ios-oss](https://github.com/kickstarter/ios-oss) - Kickstarter for iOS. Bring new ideas to life, anywhere.
 * [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain Text Editor for macOS
+* [Yvsleyen00941/Tape](https://github.com/Yvsleyen00941/Tape) - Native desktop stock & ETF ticker living beside the macOS Dock with live price streaming and 6 configurable themes.
+* [Yvsleyen00941/Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Native macOS system diagnostics companion tracking CPU, memory, and hardware telemetry beside the Dock.
 * [XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 * [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
 * [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) - Run Stable Diffusion on Mac natively
@@ -998,6 +1000,7 @@ A curated list of awesome Swift frameworks, libraries and software.
 * [dmrschmidt/DSWaveformImage](https://github.com/dmrschmidt/DSWaveformImage) - Generate waveform images from audio files on iOS, macOS & visionOS in Swift. Native SwiftUI & UIKit views.
 * [adamcichy/SwiftySound](https://github.com/adamcichy/SwiftySound) - SwiftySound is a simple library that lets you play sounds with a single line of code.
 * [ApplikeySolutions/PandoraPlayer](https://github.com/ApplikeySolutions/PandoraPlayer) - 🅿️ PandoraPlayer is a lightweight music player for iOS, based on AudioKit and completely written in Swift.
+* [Yvsleyen00941/Needle](https://github.com/Yvsleyen00941/Needle) - Dedicated Now Playing companion for the macOS Dock, displaying live artwork and track info from Apple Music & Spotify.
 
 ### Image and Video
 
